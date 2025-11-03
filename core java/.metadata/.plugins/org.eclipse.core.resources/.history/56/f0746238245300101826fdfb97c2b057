@@ -1,0 +1,10 @@
+
+package com.rays.basics;
+
+public class Hello{
+public static void main(String[] args) {
+System.out.println("i am neeraj mewada");
+System.out.println("i live in indore");
+}
+
+}

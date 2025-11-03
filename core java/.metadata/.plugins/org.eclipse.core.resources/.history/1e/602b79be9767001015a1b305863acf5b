@@ -1,0 +1,5 @@
+package com.rays.oop.polimorphism;
+
+public class TestShapeByMethodArgument {
+
+}

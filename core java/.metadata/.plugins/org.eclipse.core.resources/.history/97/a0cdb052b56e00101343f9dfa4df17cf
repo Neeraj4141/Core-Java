@@ -1,0 +1,19 @@
+package com.rays.oop.expert.practise;
+
+public class TestAuto {
+	public static void main(String[] args) {
+
+		Auto a = new Auto();
+
+		a.setName("scorpio");
+		a.setColor("black");
+		a.SetModel("sports");
+		a.setSpeed(120);
+
+		System.out.println("name = " + a.getName());
+		System.out.println("color = " + a.getColor());
+		System.out.println("model = " + a.getModel());
+		System.out.println("speed = "+a.getSpeed());
+	}
+
+}

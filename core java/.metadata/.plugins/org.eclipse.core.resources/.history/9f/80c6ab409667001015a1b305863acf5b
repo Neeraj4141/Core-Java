@@ -1,0 +1,14 @@
+package com.rays.oop.polimorphism;
+
+public class Shape {
+
+	public final double PI = 3.14;	
+
+	public double area() {
+		return 0.0;
+	}
+	public double perameter() {
+		return 0.0;
+	}
+
+}

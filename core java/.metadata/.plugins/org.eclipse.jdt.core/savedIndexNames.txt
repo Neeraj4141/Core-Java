@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\Win10 Pro\Desktop\core java\.metadata\.plugins\org.eclipse.jdt.core
+3805208080.index
+1369928306.index
+4267160747.index
+1766954297.index
+1024446143.index
+94019698.index
+3471043607.index
+882706535.index
+4052634610.index
+918097136.index
